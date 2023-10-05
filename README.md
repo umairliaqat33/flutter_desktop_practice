@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Here i used a tutorial to build this executable file available in installer folder link is given below
+- [Flutter - Creating .exe Setup for Flutter Windows Desktop Apps | Flutter Tutorial | Inno Setup](https://www.youtube.com/watch?v=XvwX-hmYv0E)
+
+
